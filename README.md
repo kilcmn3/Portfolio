@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I'm a web developer who passionate to create software to make benefit other people. I've spent dedicated time in my experience of communicating with people from a career as a private client banker and now apply it to understanding people and their business behind them.
+Welcome to my website! I'm a web developer who passionate to create software to make benefit other people.
 
 <img src="images/1615927042817.jfif?raw=true"/>
 
