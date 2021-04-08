@@ -4,7 +4,7 @@
 
 Welcome to my website! I'm a web developer who passionate to create software to make benefit other people.
 
-<img src="images/1615927042817.jfif?raw=true"/>
+<img src="src/assets/images/profile_pic.jpg?raw=true"/>
 
 ### Contact
 
