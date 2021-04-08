@@ -16,6 +16,4 @@ Email: kilcmn3@Hotmail.com
 Looking forward to hearing from you!
 ___
 
-### License
 
-All copyRight belongs to "MIT" Licnese, and to Antoine Renault. Please go check for the webiste [Mash-up!](http://www.mashup-template.com/)
