@@ -1,4 +1,4 @@
-## Developer Portfolio Landing Page Template
+## David Shin's portfolio
 
 ### About 
 
